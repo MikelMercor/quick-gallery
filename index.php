@@ -34,7 +34,7 @@
             <?php include 'quick-gallery.php'; ?>
          </div>
          <footer class="row">
-            <p>&copy; <?php echo date("Y"); ?> Dawid Górecki. Licensed under the MIT License.</p>
+            <p>&copy; <?php echo date("Y"); ?> NAMEHEREHERE. Licensed under the MIT License.</p>
          </footer>
       </div>
 
